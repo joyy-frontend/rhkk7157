@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 유저 경험에 관심이 많습니다.
 - 동료들과 함께 문제를 해결하는것을 즐깁니다.
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhkk7157&label=Profile%20views&color=0e75b6&style=flat" alt="rhkk7157" /> </p> -->
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used at least once </p>
 
@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhkk7157" alt="rhkk7157" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhkk7157" alt="rhkk7157" /></a> </p> -->
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhkk7157&label=Profile%20views&color=0e75b6&style=flat" alt="rhkk7157" /> </p>
 
 
 
