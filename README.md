@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rhkk7157/rhkk7157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
