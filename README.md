@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Front-End Developer</h1>
 
 - 유저 경험에 관심이 많습니다.
+- 동료들과 함께 문제를 해결하는것을 즐깁니다.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhkk7157&label=Profile%20views&color=0e75b6&style=flat" alt="rhkk7157" /> </p> -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
