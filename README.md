@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 유저 경험에 관심이 많습니다.
 - 동료들과 함께 문제를 해결하는것을 즐깁니다.
-- 팀과 함께 성장하는 것을 좋아합니다.🙌💪
+- 팀과 함께 성장하는 것을 좋아합니다.🙌
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
