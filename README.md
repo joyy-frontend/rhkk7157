@@ -42,10 +42,12 @@ Here are some ideas to get you started:
 - 팀과 함께 성장하는 것을 좋아합니다.🙌
 
 
-<h2>career</h2>
+<!-- <h2>career</h2>
 
 
-- 
+- 젠틀파이
+- 어메이저
+- 모파스  -->
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
