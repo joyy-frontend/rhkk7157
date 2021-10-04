@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodejs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Codeigniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtjs&logoColor=white"/></a>
