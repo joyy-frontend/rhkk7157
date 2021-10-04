@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
 </p>
 
 <h2>Front-End Developer</h2>
