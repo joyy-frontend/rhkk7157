@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Front-End Developer</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhkk7157&label=Profile%20views&color=0e75b6&style=flat" alt="rhkk7157" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhkk7157&label=Profile%20views&color=0e75b6&style=flat" alt="rhkk7157" /> </p> -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used at least once </p>
 
