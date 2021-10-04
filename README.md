@@ -54,7 +54,7 @@ Here are some ideas to get you started:
  -->
 
 <h2> Me </h2>
-<p align="center">
+<p>
    <a href="mailto:hyerihyeriko@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
