@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Front-End Developer</h1>
+### 고혜리
+
 
 - 유저 경험에 관심이 많습니다.
 - 동료들과 함께 문제를 해결하는것을 즐깁니다.
