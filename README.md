@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Next.js-F2F3F4?style=flat-square&logo=Next.js&logoColor=green"/></a>
 <img src="https://img.shields.io/badge/Typescript-7952B3?style=flat-square&logo=Typescript&logoColor=blue"/></a>
-<img src="https://img.shields.io/badge/Solidity-F24E1E?style=flat-square&logo=Solidity&logoColor=pink"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodejs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
 </p>
